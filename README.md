@@ -26,7 +26,7 @@ Projekts satur **4 tabulas**:
 3. **Categories** – prasmju kategorijas
 4. **SkillRequests** – lietotāju prasību ieraksti
 
-![ER Diagram](swagger.png)
+
 
 ---
 
