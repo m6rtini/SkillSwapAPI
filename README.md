@@ -4,7 +4,7 @@ RESTful API projekts, kas ļauj lietotājiem piedāvāt un pieprasīt prasmes (s
 
 ---
 
-## 🛠 Tehnoloģijas
+##  Tehnoloģijas
 
 - **ASP.NET Core 8.0**
 - **Entity Framework Core**
@@ -17,7 +17,7 @@ RESTful API projekts, kas ļauj lietotājiem piedāvāt un pieprasīt prasmes (s
 
 ---
 
-## 📊 Datubāzes struktūra
+##  Datubāzes struktūra
 
 Projekts satur **4 tabulas**:
 
@@ -30,7 +30,7 @@ Projekts satur **4 tabulas**:
 
 ---
 
-## ⚡ API Endpointi
+##  API Endpointi
 
 ### **Autorizācija**
 
@@ -56,7 +56,7 @@ Projekts satur **4 tabulas**:
 
 ---
 
-## 🔐 JWT Autentifikācija
+##  JWT Autentifikācija
 
 1. Pieslēdzies ar `/api/auth/login`
 2. Saņem tokenu:
